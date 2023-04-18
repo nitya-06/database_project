@@ -1,1 +1,1 @@
-# Db-Project
+# Database CS260 Project IIT Patna
