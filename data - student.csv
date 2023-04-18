@@ -1,0 +1,11 @@
+Name,RollNo,Email,Password,Gender,dob,degree,branch,batch_year,Interest,Ctc
+Rahul Sharma,2101CS12,rahul.sharma@email.com,pass123,Male,1999-01-15,B.Tech,CSE,2021,Development,0
+Priya Singh,2201EE31,priya.singh@email.com,abc456,Female,2000-04-23,M.Tech,EE,2022,Machine Learning,0
+Amit Patel,2301MC25,amit.patel@email.com,p@$$789,Male,1998-07-10,B.Sc,MnC,2020,Cyber Security,0
+Neha Gupta,2401AI44,neha.gupta@email.com,myPwd123,Female,2001-02-28,B.Tech,AI/DS,2023,Finance,13
+Sanjay Mishra,2501CS21,sanjay.mishra@email.com,pwd@456,Male,1999-11-12,B.Tech,CSE,2021,Others,0
+Anjali Verma,2601AI37,anjali.verma@email.com,pass123,Female,2000-06-18,M.Tech,AI/DS,2022,Development,5
+Rajat Singhania,2701MC48,rajat.singhania@email.com,abc789,Male,1998-09-20,B.Sc,MnC,2020,Machine Learning,0
+Pooja Sharma,2801CS57,pooja.sharma@email.com,myPwd789,Female,2001-04-05,B.Tech,CSE,2023,Cyber Security,0
+Vikram Singh,2901EE65,vikram.singh@email.com,pwd@789,Male,1999-07-25,B.Tech,EE,2021,Finance,0
+Anjali Gupta,2102CS43,anjali.gupta@email.com,pass@123,Female,2000-12-30,M.Tech,CSE,2022,Others,11

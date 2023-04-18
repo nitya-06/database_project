@@ -1,0 +1,14 @@
+Name,Email,Password,Gender,Company_name,RollNo,Ctc,degree,branch,batch_year,area_of_working,Location,working_tenure
+Amit Sharma,amitsharma@example.com,pa$$word1,Male,Tata Consultancy Services,2101CS12,20,B.Tech,CSE,2016,Development,Bangalore,3
+Priya Singh,priyasingh@example.com,pa$$word2,Female,Infosys,2201EE31,30,M.Tech,EE,2017,Machine Learning,Delhi,2
+Rahul Patel,rahulpatel@example.com,pa$$word3,Male,Wipro,2301MC45,40,B.Sc,MnC,2018,Cyber Security,Mumbai,1
+Sneha Gupta,snehagupta@example.com,pa$$word4,Female,Tech Mahindra,2401AI28,10,PhD,AI/DS,2019,Finance,Chennai,4
+Rajat Verma,rajatverma@example.com,pa$$word5,Male,HCL Technologies,2501CS59,15,B.Tech,CSE,2016,Machine Learning,Kolkata,2
+Aisha Khan,aishakhan@example.com,pa$$word6,Female,Accenture,2601EE71,25,M.Tech,EE,2017,Development,Hyderabad,3
+Anjali Yadav,anjaliyadav@example.com,pa$$word7,Female,Cognizant,2701MC84,35,B.Sc,MnC,2018,Cyber Security,Bangalore,1
+Ravi Kumar,ravikumar@example.com,pa$$word8,Male,IBM India,2801AI53,45,PhD,AI/DS,2019,Finance,Delhi,4
+Swati Mishra,swatimishra@example.com,pa$$word9,Female,Infosys BPM,2901CS16,55,B.Tech,CSE,2016,Machine Learning,Mumbai,2
+Rajesh Singh,rajeshsingh@example.com,pa$$word10,Male,Wipro Limited,2002EE37,50,M.Tech,EE,2017,Development,Chennai,3
+Ankur Sharma,ankursharma@example.com,pa$$word11,Male,Dabur,2102CS23,40,B.Tech,CSE,2018,Machine Learning,Delhi,2
+Pooja Gupta,poojagupta@example.com,pa$$word12,Female,Patanjali,2202EE41,40,M.Tech,EE,2019,Development,Mumbai,1
+Ravi Patel,ravipatel@example.com,pa$$word13,Male,Barbera,2302MC34,50,B.Sc,MnC,2016,Cyber Security,Bangalore,3
