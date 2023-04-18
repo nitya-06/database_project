@@ -1,0 +1,22 @@
+Tables 
+Student
+Alumni 
+Company
+Student(Name, Marks(Table), Branch, Dob, Interest(Table), Gender,RollNo(Primary key),Batch year, Placed (Table), degree, email, password)
+Company(email(Primary key), Name, Package, Criteria(Table), mode of interview, Field of company, Since which year , password)
+Alumni(Name, Company, Branch, marks(Table) , year, CTC, Area, Position, Location, Working tenure, RollNo (Primary), Degree, email, password)
+Marks(RollNo (Foreign key),10, 12, last SEM-CPI)
+Interest() // Doubt about Criteria number of field or only single
+Placed(Roll No (Foreign Key), Company, Salery, Position );
+Criteria(CPI, Branch, Gender, Interest, Batch year, degree)
+
+
+Pages
+(1) Home Page All page link in navbar login (dropdown menu), Registration, About US, Feedback, Prev stats, All company, Prev Stats
+Registration Page for all 
+login Page for all 1 login page with dropdown or option of company, student, Alumni
+All Company Name, logo, Field of company, 
+Prev stats -  Company name, top Package(only after login), last few year(Select the year).
+Eligible - Company name,
+about us 
+feedback
