@@ -1,0 +1,11 @@
+Company_name,Email,Password,mode_interview,c_field,recrting_since,ctc,Interest
+Tata Consultancy Services,tcs@email.com,pass123,Online,IT,2010,20,Development
+Infosys,info@email.com,myPwd456,Offline,Finance,2005,15,Machine Learning
+Wipro,wipro@email.com,abc789,Online,Consulting,2012,32,Cyber Security
+Tech Mahindra,techmahindra@email.com,pwd@789,Offline,Product Management,2018,40,Machine Learning
+HCL Technologies,hcltech@email.com,pass@123,Online,IT,2008,25,Finance
+Accenture,accenture@email.com,myPwd123,Offline,Consulting,2015,15,Development
+Cognizant,cognizant@email.com,abc456,Online,IT,2011,35,Development
+IBM India,ibm.india@email.com,pwd@456,Offline,Finance,2013,45,Machine Learning
+Infosys BPM,infosysbpm@email.com,pass123,Online,Product Management,2007,40,Others
+Wipro Limited,wiprolimited@email.com,myPwd789,Offline,Consulting,2016,33,Development
